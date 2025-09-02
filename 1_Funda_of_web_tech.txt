@@ -1,0 +1,86 @@
+MEAN STACK
+    >> M: MongoDB (Database)
+    >> E: ExpressJs (Backend)
+    >> A: Angular (Frontend)
+    >> N: NodeJs (Backend)
+
+Three Pillars
+    >> HTML (Hyper Text Markup Language)
+    >> CSS (CAscading Style Sheets)
+    >> JS (Java Script)
+
+Other Stacks
+    >> MEAN, MERN, Java Fullstack
+
+Web Dev
+    >> Building/Developers tier
+    >> Testing Team (Manual Testers/Automated Testers)
+    >> Hosting Team (DevOps Team) 
+    >> Maintenance Team/Support Team
+
+SDLC (Software Development Life Cycle)
+    >> Waterfall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V Shaped Model
+    >> RAD (Rapid Application Development) Model
+
+URL (Uniform Resource Locator)
+    https://www.instagram.com/
+    https://education.vikasAcademy.edu/Fullstack
+
+    https: Protocol
+    vikasAcademy: Server/Domain Name 
+    education: Sub-Domain
+    .edu: TDL (Top Level Domain)
+    Fullstack: Path/Location
+
+Protocol
+    >>Set of Rules/Instructions
+        http  : Hypertext Transfer Protocol
+        https : Hypertext Transfer Protocol Secure
+        tcp   : Transmission Control Protocol
+        udp   : User Datagram Protocol
+        smtp  : Simple Mail Transfer Protocol
+        ftp   : File Transfer Protocol
+        ip    : Internet Protocol
+
+        >> Client/Web Page ---------(uName & uPwd)----------> Instagram Server
+        >> SSL (Secure Socket Layer) Certification
+
+Server/Domain Name:
+    >> Unique identifier
+        >>Eg: Google
+
+Sub-Domain Name:
+    >> gMeet
+    >> gMaps
+    >> gDrive
+    >> Gmail
+    >> gPhotos
+    >> gFiles
+    >> gCalendar
+    >> gPay
+
+TLD (Top Level Domain):
+    Amazon.in (India)
+    Amazon.com (Commercial)
+    Amazon.org (Organization)
+    Amazon.uk (United Kingdom)
+    Amazon.edu (Education)
+
+
+
+Code Editors:
+    Offline Editors
+        >> Notepad
+        >> Notepad++
+        >> Sublime
+        >> Open Brackets
+        >> VS Code
+
+    Online Editors
+        >> CodeSpace
+        >> CodeSandbox

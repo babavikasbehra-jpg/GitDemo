@@ -1,0 +1,34 @@
+Git 
+    >> It is distributed (on Cloud)
+    Used For:
+        >> Version Control
+        >> Collaboration
+        >> Tracking Changes
+        >> Recovery
+
+Git is supported by many different application. E.g.
+    >> GitHub (Recommended/Widely Used)
+    >> BitBucket
+    >> GitLabs
+    >> GitPod
+
+For 1st time need to configure github in our system
+    >> git config --global user.name "babavikasbehra-jpg"
+    >> git config --global user.email "babavikasbehra@gmail.com"
+
+    >> git config --global color.ui auto (optional for easy reading and beautifying)
+
+Mandatory Commands:
+    >> git init
+    >> git remote add origin https://github.com/babavikasbehra-jpg/GitDemo.git
+
+Raising a Pull Request
+    >> git pull origin main
+
+Raising a push Request
+    >> git status
+    >> git add 1_Funda_of_web_tech.txt 2_GitAndGithubCommands.txt (for particular files)
+    >> git add . (All Files)
+    >> git status
+    >> git commit -m "Commit Message"
+    >> git push
