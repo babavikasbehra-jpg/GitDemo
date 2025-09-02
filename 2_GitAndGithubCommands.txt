@@ -32,3 +32,6 @@ Raising a push Request
     >> git status
     >> git commit -m "Commit Message"
     >> git push
+
+Creating a new branch
+    >> git checkout -b "BranchName"
